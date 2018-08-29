@@ -5,6 +5,10 @@ function animateIcon(){
   setTimeout(function(){
     fist.innerHTML = "&#xf411;";
   }, 1000);
+
+  setTimeout(function(){
+    fist.innerHTML = "&#xf13b;";
+  }, 2000);
 }
 //run function
 animateIcon();
