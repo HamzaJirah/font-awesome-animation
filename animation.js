@@ -8,7 +8,7 @@ function animateIcon(){
 
   setTimeout(function(){
     fist.innerHTML = "&#xf13b;";
-  }, 2000);
+  }, 3000);
 }
 //run function
 animateIcon();
