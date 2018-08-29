@@ -1,10 +1,7 @@
 function animateIcon(){
-  let fist = document.querySelector("fist")
-  fist.innerHTML = "&#xf207;";
+  let fist = document.querySelector("#fist")
+  fist.innerHTML = "&#xf17a;";
   //add another icon
-  setTimeout(function(){
-    fist.innerHTML = ""
-  })
 }
 //run function
 animateIcon();
