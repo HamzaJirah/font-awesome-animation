@@ -12,3 +12,4 @@ function animateIcon(){
 }
 //run function
 animateIcon();
+setInterval(animateIcon, 5000);
