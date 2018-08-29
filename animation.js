@@ -3,7 +3,7 @@ function animateIcon(){
   fist.innerHTML = "&#xf17a;";
   //add another icon
   setTimeout(function(){
-    fist.innerHTML = "&#xf257;";
+    fist.innerHTML = "&#xf411;";
   }, 1000);
 }
 //run function
